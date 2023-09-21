@@ -1,7 +1,5 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Portfolio website Studio Rolie.
 
 ## Inhoudsopgave
 
@@ -13,18 +11,23 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
-
+Deze website is gemaakt om de verschillende projecten weer te geven van Studio Rolie. 
+  ![image](https://github.com/milanrolie/your-tribe-for-life-profile-card/assets/112857190/6f7ad32a-fa49-44bc-ae01-ce618691865d)
+  
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+  Deze website is gobouwd met SvelteKit. 
+  CMS: Prismic
+  Libraries: GSAP, Lenis
 
 ## Installatie
 
-## Gebruik
-
-## Bronnen
+1. Download de code als zip bestand en open deze map in je Code editor.
+2. Voer de volgende commands uit in je terminal binnen het project:
+     - npm install
+     - npm install gsap
+     - npx @slicemachine/init@latest
+     - npm i @studio-freight/lenis
+3. Enjoy!
 
 ## Licentie
 
