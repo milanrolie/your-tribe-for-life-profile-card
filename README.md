@@ -6,13 +6,12 @@ Portfolio website Studio Rolie.
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
 ## Beschrijving
 Deze website is gemaakt om de verschillende projecten weer te geven van Studio Rolie. 
-  ![image](https://github.com/milanrolie/your-tribe-for-life-profile-card/assets/112857190/6f7ad32a-fa49-44bc-ae01-ce618691865d)
+<br>
+![image](https://github.com/milanrolie/your-tribe-for-life-profile-card/assets/112857190/c2ef7712-058a-4e32-a444-0fe3aba3f4d6)
   
 ## Kenmerken
   Deze website is gobouwd met SvelteKit. 
@@ -22,11 +21,11 @@ Deze website is gemaakt om de verschillende projecten weer te geven van Studio R
 ## Installatie
 
 1. Download de code als zip bestand en open deze map in je Code editor.
-2. Voer de volgende commands uit in je terminal binnen het project:
-     - npm install
-     - npm install gsap
-     - npx @slicemachine/init@latest
-     - npm i @studio-freight/lenis
+2. Voer de volgende commands uit in je terminal binnen het project: <br>
+   `npm install`<br>
+   `npm install gsap`<br>
+   `npx @slicemachine/init@latest`<br>
+   `npm i @studio-freight/lenis`<br>
 3. Enjoy!
 
 ## Licentie
