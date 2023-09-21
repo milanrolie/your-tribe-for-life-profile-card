@@ -1,5 +1,4 @@
-# Titel
-Portfolio website Studio Rolie.
+# Portfolio website Studio Rolie.
 
 ## Inhoudsopgave
 
